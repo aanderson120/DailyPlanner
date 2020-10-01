@@ -13,7 +13,7 @@
 * N/A
 
 ## Special Thanks
-I collaborated with [Brooklynne Audette](https://github/B-Audette), [Dortea Flores-Kestner](https://github/dfkestner), and [Lindsey Bordner](https://LindseyM20). We were able to talk through the pseudocoding to simplify the code and were able to help each other debug when we came across issues.
+I collaborated with [Brooklynne Audette](https://github.com/B-Audette), [Dortea Flores-Kestner](https://github.com/dfkestner), and [Lindsey Bordner](https://github.com/LindseyM20). We were able to talk through the pseudocoding to simplify the code and were able to help each other debug when we came across issues.
 
 ## Liscense Information
 * N/A
