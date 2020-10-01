@@ -13,17 +13,9 @@ textarea{
   padding: 10px;
 }
 
-/* .title {
-  background-color: rgba(204, 196, 196, 0.75);
-  width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-} */
-
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  /* background: url(https://th.bing.com/th/id/OIP.j5_faVJo5t6a45f5HlTwqgHaCF?w=299&h=98&c=7&o=5&dpr=1.1&pid=1.7); */
   background-size: cover;
   height: 100%;
   color: black;
